@@ -1,2 +1,3 @@
 # cursogit
-repo curso git
+## repo curso git
+este es el readme
